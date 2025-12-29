@@ -6,7 +6,8 @@
 - Data Analytics projects using SQL, Python, Excel, and Power BI.
 - Building interactive dashboards and performing data analysis.
 ## 🌱 Currently Learning
-- Advanced Excel <br>- Machine Learning fundamentals.
+- Advanced Excel
+- Machine Learning fundamentals.
 ## 🧑‍💻 Skills 
 - SQL(Advanced) | Python | Excel | Power BI | Data Visualization
 ## 📫 Reach Me 
